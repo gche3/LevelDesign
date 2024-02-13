@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UserInterface/WBP_Stats.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UserInterface/WBP_Restart.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Health_Pack_BP.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Collectibles/Common/First_Aid_Kit.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Collectibles/Common/Material.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Collectibles/Common/Material_001.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/Pursuer_AIController.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Assets/SFX/SFX_Boom.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Assets/SFX/vine-boom.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/EAIState.uasset",
+				"C:/Users/Grace He/Desktop/cooleg/Spring 2024/CS 415/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap"
+			]
+		}
+	]
+}
